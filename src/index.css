@@ -6,9 +6,15 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: url('https://stmed.net/sites/default/files/ouija-board-wallpapers-28784-1401778.jpg') no-repeat center center fixed;
+  -webkit-background-size: 99% 99%;
+  -moz-background-size: 99% 99%;
+  -o-background-size: 99% 99%;
+  background-size: 99% 99%;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
